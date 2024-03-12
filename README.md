@@ -11,4 +11,4 @@ Application dependencies list:
 3. Javascript runtime framework
 
 
-Here you can see the entire app on my Github repository, to access it go to this link : https://github.com/Asilbek0099/00016886/tree/main
+Here you can see the entire app on my Github repository, to access it go to this link : https://github.com/Asilbek0099/00016886
